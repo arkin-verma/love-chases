@@ -5,7 +5,7 @@
 - Requires pygame, which is installed automatically when using the requirements
 
 ## Download
-- Download this file (the green button that says "Code"
+- Download this file (click the green "Code" and then click "Download ZIP")
 
 ## Installation
 `pip install -r requirements.txt`

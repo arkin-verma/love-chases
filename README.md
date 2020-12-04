@@ -14,3 +14,13 @@
 ## Reasoning and Rationale
 - Read here: https://sites.google.com/uci.edu/unicorn/amsnd-game
 
+
+## Screenshots
+**First Step**
+<img src = "screenshots/instruction1.png">
+**Second Step**
+<img src = "screenshots/instruction2.png">
+**Third Step**
+<img src = "screenshots/instruction3.png">
+**Good to Go!**
+<img src = "screenshots/output.png">

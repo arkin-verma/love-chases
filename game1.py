@@ -50,17 +50,20 @@ def on_key_down(key):
     if key == keys.RIGHT:
         col += 1
         print(row,col)
-    tile = tiles[maze[row][col]]
-    if tile == 'straight' and not player_dead:
-        move_player(row,col)
-    if tile == 'fairy':
-        unlock += 1 
-        maze[row][col] = 0
-        move_player(row,col)
-    if tile == 'tree1' and unlock > 0:
-        msg = 'Demetrius has escaped...for now.'
-        move_player(row,col)
-        sounds.collision.play()
+    try:
+        tile = tiles[maze[row][col]]
+        if tile == 'straight' and not player_dead:
+            move_player(row,col)
+        if tile == 'fairy':
+            unlock += 1 
+            maze[row][col] = 0
+            move_player(row,col)
+        if tile == 'tree1' and unlock > 0:
+            msg = 'Demetrius has escaped...for now.'
+            move_player(row,col)
+            sounds.collision.play()
+    except:
+        pass
 
 def move_player(row,col):
     x = col*TILE_SIZE

@@ -14,8 +14,11 @@
 - Finally, type `pip install -r requirements.txt`and press enter
 
 ## Running the Program
+Type either command to run Level 1 or Level 2. The game will start.
 - `python game1.py` (Level 1 - Helena chases Demetrius)
 - `python game2.py` (Level 2 - Demetrius and Lysander chase Helena)
+
+Move with arrow keys, avoid the chaser! You can only exit the woods if you obtain all fairies. Good luck!
 
 ## Reasoning and Rationale
 - Read here: https://sites.google.com/uci.edu/unicorn/amsnd-game

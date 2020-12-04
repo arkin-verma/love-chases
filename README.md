@@ -1,14 +1,16 @@
 # Love Chase - Level 1 and 2
 
 ## Prerequisites
-- Install Python 3.7 or Python 3.8 (For Mac/Windows respectively)
+- Install Python 3.7 or Python 3.8 (For Mac/Windows respectively). Download here: https://www.python.org/downloads/ (The specific release version doesn't matter, as long as it starts with 3.7 or 3.8)
 - Requires pygame, which is installed automatically
 
 ## Download
 - Download this file (click the green "Code" and then click "Download ZIP")
 
 ## Installation
-- Open Command Prompt (Windows) or Terminal (Mac) and type the following command:
+- Open Command Prompt (Windows) or Terminal (Mac)
+- Type `cd Downloads` (or `cd [wherever the ZIP file was saved]`) and press Enter
+- Type `cd love-chases-master` and press Enter
 `pip install -r requirements.txt`
 
 ## Running the Program

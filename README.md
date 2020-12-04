@@ -1,11 +1,14 @@
 # Love Chase - Level 1 and 2
 
+## Prerequisites
+- Install Python 3.7 or Python 3.8 (For Mac or Windows respectively)
+- Requires pygame, which is installed automatically when using the requirements
+
+## Download
+- Download this repository code (the green button that says
+
 ## Installation
 `pip install -r requirements.txt`
-
-## Prerequisites
-- Python 3.7 or Python 3.8 (For Mac or Windows respectively)
-- Requires pygame, which is installed automatically when using the requirements
 
 ## Running the Program
 - `python game1.py` (Level 1 - Helena chases Demetrius)

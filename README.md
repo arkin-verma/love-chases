@@ -11,7 +11,7 @@
 - Open Command Prompt (Windows) or Terminal (Mac)
 - Type `cd Downloads` (or `cd [wherever the ZIP file was saved]`) and press Enter
 - Type `cd love-chases-master` and press Enter
-- Finally, type `pip install -r requirements.txt`and press enter
+- Finally, type `pip install -r requirements.txt` and press enter (IMPORTANT: Mac users type `pip3 install -r requirements.txt`, not just "pip")
 
 ## Running the Program
 Type either command to run Level 1 or Level 2. The game will start.

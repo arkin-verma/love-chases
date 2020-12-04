@@ -11,7 +11,7 @@
 - Open Command Prompt (Windows) or Terminal (Mac)
 - Type `cd Downloads` (or `cd [wherever the ZIP file was saved]`) and press Enter
 - Type `cd love-chases-master` and press Enter
-`pip install -r requirements.txt`
+- Finally, type `pip install -r requirements.txt`and press enter
 
 ## Running the Program
 - `python game1.py` (Level 1 - Helena chases Demetrius)

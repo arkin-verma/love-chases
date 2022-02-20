@@ -23,7 +23,7 @@ Type either command to run Level 1 or Level 2. The game will start.
 Move with arrow keys, avoid the chaser! You can only exit the woods if you obtain all fairies. Good luck!
 
 ## Reasoning and Rationale
-- Read here: https://sites.google.com/uci.edu/unicorn/amsnd-game
+- Read here: https://sites.google.com/uci.edu/unicorn/fall-quarter-2020/amsnd-game?authuser=0
 
 ## Screenshots
 **First Step**

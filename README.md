@@ -25,6 +25,9 @@ Move with arrow keys, avoid the chaser! You can only exit the woods if you obtai
 ## Reasoning and Rationale
 - Read here: https://sites.google.com/uci.edu/unicorn/fall-quarter-2020/amsnd-game?authuser=0
 
+## Demo Video
+- Watch here: https://www.youtube.com/watch?v=JsqseNL4OVk&feature=emb_logo
+
 ## Screenshots
 **First Step**
 
